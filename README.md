@@ -5,7 +5,7 @@
 Este projeto tem como objetivo construir um modelo de Machine Learning para identificar transações fraudulentas em um conjunto de dados de transações bancárias. Através de diversas análises e modelagem, conseguimos prever se uma transação é fraudulenta com base em variáveis como distância da última transação, preço de compra, uso de chip e PIN, entre outras.
 
 ### Tecnologias Utilizadas
-
+ 
 - **Python**
 - **Pandas**: Para manipulação e análise de dados
 - **Scikit-Learn**: Para criação e treinamento do modelo de Machine Learning
