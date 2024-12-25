@@ -70,5 +70,5 @@ Este projeto demonstrou a eficácia do uso de Machine Learning para detectar tra
 
 ---
 
-**Autor**: [Paulo Roberto]  
+**Autor**: Paulo Roberto
 **Data**: Dezembro de 2024  
